@@ -544,7 +544,7 @@ color: gray;
 
     .navbar{
         position: absolute;
-        top: -1000%;
+        top: -2000%;
         width: 100%;
         height: 100vh;
         left: 0;
